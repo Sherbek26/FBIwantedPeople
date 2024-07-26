@@ -1,0 +1,4 @@
+it is an app for showing who is wanted person by FBI and i used a free api of FBI. While making the app, I use the tools such as Retrofit-for network calls, Room- for local database, Paging3 library- to make a paginated network calls and caching to the room database, Coil - to load image from network, MVVM architecture, Dagger Hilt - for controlling dependencies. And this app works as getting network response and after, or when refreshing response, Remote mediator which is a class of paging3 is used to cache and using pagination for remote and local data. It means when the network is not valid, app works and gets data from room database.
+
+![image](https://github.com/user-attachments/assets/4fda15de-23fa-4243-8d25-66b2415f809c)
+[aaron-paul-victory.pdf](https://github.com/user-attachments/files/16386596/aaron-paul-victory.pdf)
